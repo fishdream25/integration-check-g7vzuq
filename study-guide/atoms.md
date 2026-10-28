@@ -1,0 +1,22 @@
+{{nyml
+kind: document
+format: 1
+title: Atoms
+uid: doc-6fx9zejywuff
+}}
+
+# Atoms (title changed by a co-author)
+
+## One
+
+First 766537, edited by writer B.
+
+## Two
+
+Middle paragraph.
+
+## Three
+
+Last 766537, edited by writer A.
+
+Added on GitHub (43cf82).

@@ -1,0 +1,18 @@
+{
+  "packageId": "pkg-integration-check-upg7vzuq",
+  "title": "Integration check",
+  "description": "",
+  "keywords": [],
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28T17:18:38.478Z",
+  "schemaVersion": 3,
+  "chapters": [
+    {
+      "slug": "atoms",
+      "title": "Atoms",
+      "mode": "package"
+    }
+  ]
+}
