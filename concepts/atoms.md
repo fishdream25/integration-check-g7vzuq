@@ -7,4 +7,4 @@ uid: doc-7ngo8tl707m7
 
 # Concept map: Atoms
 
-Start writing here.
+Atoms → electrons, nucleus; nucleus → protons, neutrons.
