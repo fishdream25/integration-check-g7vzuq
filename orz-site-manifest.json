@@ -1,0 +1,117 @@
+{
+  "assets": [
+    {
+      "path": "index.html",
+      "sha256": "5222444c797e2c5fa571099b459bba0427821897d1feb39ffc291453cae857de"
+    }
+  ],
+  "baseUrl": "https://fishdream25.github.io/integration-check-g7vzuq/",
+  "carriers": {
+    "md": {
+      "version": "1.1.0"
+    },
+    "slides": {
+      "version": "1.1.0"
+    }
+  },
+  "config": {
+    "sha256": "d639a9a4392c650140d571e8c3b99fd3d7c569c8fe465a7f3ca2134b40106c4a"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "fb0e03d2bbaec4ff41e162e54609d4f758208c2f27b41e002bf7a8d71e6aa1b0",
+      "kind": "md",
+      "output": "README.md.html",
+      "outputSha256": "47c0088e6f4ffcf9d8827cc788ccca4f6a416d795ce076aab11c273a4fd2a305",
+      "path": "README.md",
+      "sha256": "b55ffe13fffd906f690c03940ce51395f4a99c050d486eebc03fb81e4a882b3c",
+      "title": "Alembic OER package (private)"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ddf9934cfdd608b179ca269d26741be698e8339bf2943d30e4ca84cb67da1871",
+      "kind": "md",
+      "output": "assessment-support/atoms.md.html",
+      "outputSha256": "49034c35e508a89ff096138f0cb89865c5a9934f7baff52cd59cd4ff60ed6bc9",
+      "path": "assessment-support/atoms.md",
+      "sha256": "5a6476d5ba5338b8f86bd06ca378a5e45296ccb4d8b483914963b9650cf2abbf",
+      "title": "Assessment guide: Atoms",
+      "uid": "doc-i7erij3yyl3m"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "0125e7855518554cd93e6ccefce322893d38584d038f5f1a59e7b7a614cc237e",
+      "kind": "md",
+      "output": "concepts/atoms.md.html",
+      "outputSha256": "1afbb454c015e3f187b01ab10a0997e85b1115b2e0b9bb0a8981bb6dc365685d",
+      "path": "concepts/atoms.md",
+      "sha256": "c889e59e74833dc4083f7dae9e3c503a68a39090c69d0411404d995828c99519",
+      "title": "Concept map: Atoms",
+      "uid": "doc-7ngo8tl707m7"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "1eb8497263eedcfaa2f793c86fa6c6e0f9a049150cffa0e3d4d576e047c95ef7",
+      "kind": "md",
+      "output": "home.md.html",
+      "outputSha256": "dd25f4eb9a5898734956621b218bb2abcd265997eeb7e8e12eb4e6b169e25a38",
+      "path": "home.md",
+      "sha256": "58b668bdca273902d467698f68773468fca2383bf2532a2796e6c36bd05f0fd1",
+      "title": "Integration check",
+      "uid": "doc-f9lcw3mff60t"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ee16e4255c737cb770fecf95b4c8f3fb579ce5f59f5ccf594ca96d58a8931457",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "a897a48c29fac7fc0491d71892d75080eb541ba3bad7e6863b6a64051fbb418e",
+      "path": "index.md",
+      "sha256": "1fc936d524044ee67a202de43f34e538d3ded65c91a0087f6852ee832dd6532b",
+      "title": "Integration check"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "60842548c433e12732afc965873b236f0df49e4a5cb6d4d1318626e15c772792",
+      "kind": "slides",
+      "output": "slides/atoms.slides.html",
+      "outputSha256": "212d0e24bdf175fa2392526ec76359a5550e6fa8c44d300690f8a345b93cc714",
+      "path": "slides/atoms.slides.md",
+      "sha256": "2f188675cba21d0e32fea60a4fd12c1b67c1ae61caf31019b2850bffb681eb61",
+      "title": "Slides: Atoms"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ac5e173c79db64f630872d821917f00649a28b9a8544e9476e9619ad5f1d3d56",
+      "kind": "md",
+      "output": "study-guide/atoms.md.html",
+      "outputSha256": "62c4628482fa9e634e7c41cd72c4c9178d4f993748f90c266d01998921e78aa4",
+      "path": "study-guide/atoms.md",
+      "sha256": "3af16a365a7090bdf910a28dfb5ff54796105e99b03b5d7d2296bcc8403fa1d3",
+      "title": "Atoms",
+      "uid": "doc-6fx9zejywuff"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "5fd1243361675d21b4e3a90e61cd98caa4f907cb736fddf9079e0f63b4b66a90"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
